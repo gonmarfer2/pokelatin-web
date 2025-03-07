@@ -1,0 +1,498 @@
+text;translation;comment;region
+WEBMQX;;Pokédex entry title;Paldea
+QQLRE8L9J+T88SCLXV;;Pokédex entry subtitle (Blueberry Academy);Paldea
+TXL3L89#R3ECBSA3CM;;Pokédex entry subtitle (Kitakami);Paldea
+REKLBEQTVEWMS+CS3YC3;;Pokédex entry subtitle (Paldea);Paldea
+3+QD7S9XS4;;Pokédex entry bottom left (and right, too) (Blueberry Academy);Paldea
+CLXV39TSA8T;;Pokédex entry bottom left (and right, too) (Kitakami);Paldea
+WSELBRSKTYC;;Pokédex entry bottom left (and right, too) (Paldea);Paldea
+7W3Z;KUSA;Grass Map Header;Paldea
+9LWB+;JIMEN;Ground Map Header;Paldea
+YXK;IWA;Rock Map Header;Paldea
+BC3S;MIZU;Water Map Header;Paldea
+TQ7Q;HONOO;Fire Map Header, 7 is not shown as such, may be an error;Paldea
+WV39T;MUSHI;Bug Map Header;Paldea
+JEMXL;DENKI;Electric Map Header;Paldea
+MLRJC;HIKOU;Flying Map Header;Paldea
+MJYMVL;NORMAL;Normal Map Header;Paldea
+RLE3B9Q;KAKUTOU;Fighting Map Header;Paldea
+TEQSJ;ESUPA;Psychic Map Header;Paldea
+4H8V;DOKU;Posion Map Header;Paldea
+QWEY;GOST;Ghost Map Header (actually it says 4H8V but in effectiveness types it shows QWEY correctly);Paldea
+BDSK;KOORI;Ice Map Header;Paldea
+47E;AKU;Dark Map Header;Paldea
+E8TQY;FEARI;Fairy Map Header;Paldea
+QKDKJE;HAGANE;Steel Map Header;Paldea
+X9CDJA;DRAGON;Dragon Map Header;Paldea
++HUF;;Sunflora Map Footer;Paldea
++HUFO2;;Sunflora Rotom Cover;Paldea
+XNUHX;;Map Footer. I've put U as a variant of a closed o, which does not appear in Thraex Sans;Paldea
+88H!RQ8;;Map Footer.;Paldea
+QRN8HH!QX HH;;Map Footer. May be read backwards.;Paldea
+3+QD()S 9XS4;;Adventure Guide Item. One character is missing because it is too small and blurry;Paldea
+321^5 O Z2 A4LA 0;;Red/Violet Book Cover. Obvious AREA 0;Paldea
++T8W;;Yoghurt item;Paldea
+4+OV;;Whipped Cream;Paldea
+J1(2)UO^ I2 A4L4 0;;Briar's Book;Paldea
+JEAQ;;Food Plate and Cup from Seabreeze Café (JP: KISSASHITSU NAGISA);Paldea
+5UPHU MNI;;Churros from Smoochurro (JP: CHUROSU NICHU). Same as stand sign.;Paldea
+7SW(3);;Kanto Crepes (JP: KANTO- KURE-PU);Paldea
+IZON6 (I)95NO;;Sugar-N-Ice Stand (Medali);Paldea
+QD7S9X RW93;;Sugar-N-Ice Stand (Zapapico. JP: AMAIYATSUMETAIYA);Paldea
+DA4TA CQRA7;;Iono Zone Rotom Cover;Paldea
+KLJRS KMRB3C89DAXJ;(Text beneath town name);This bit of text appears underneath all town signs. Specifically, the first line is just beneath the town’s name, while the second line is in the curve at the bottom.;Galar;Paldea
+WL3R;POSTWICK;Furlong Town (ハロン Haron);Galar
+M8EDDK;WEDGEHURST;Brassie Town (ブラッシー Burasshī) … the two D might count for the two “S”s.;Galar
+VJDL;TURFFIELD;Turf Town (ターフ Tāfu)…;Galar
+7WA;HULBURY;Bow Town (バウ Bau);Galar
+CQKMQ8;MOTOSTOKE;Engine City (エンジン Enjin) … the two Q are in the same place as the “N”s would be in the English Word “engine”.;Galar
+XDEBWLA;HAMMERLOCKE;Knuckle City (ナックル Nakkuru);Galar
+YR+BQC;STOW-ON-SIDE;Lateral Town (ラテラル Rateraru);Galar
+9KEMA;BALLONLEA;Arabesque Town (アラベスク Arabesuku);Galar
+C8XYQR;CIRCHESTER;Circus Town (キルクス Kirukusu) … “Kirkus”?;Galar
+73T9K4;SPIKEMUTH;Spike Town (スパイク Supaiku);Galar
+73T9K4 VMDA;SPIKEMUTH GATE;;Galar
+AEWTT4Y;WYNDON;;Galar
+RQ38;ROSE;Clearly is “ROSE”;Galar
+94QQA7;MILO;From “Yarrow”;Galar
+JVJC;NESSA;Although her Galarian name is only four-characters, which matches neither or English name “NESSA” or Japanese name “Rurina”, it’s more than likely it’s just the first four letters in her romaji name, “RURI”. Alternatively, it might be that NESSA had a “prototype” Japanese name which was only four romaji characters long, which her Galarian name was based on, but then it was later changed to “Rurina”, only to forget to change her Galarian name likewise.;Galar
+RVD3;KABU;Can only be “KABU”.;Galar
+WSTWS;ALLISTER;From his Japanese name, “ONION”. Couldn’t be any more obvious.;Galar
+dwvdb;LEON;From his Japanese name, “DANDE”.;Galar
+qss4;BEDE;From his Japanese name, “BEET”;Galar
+3SSW;STANDARD GYM KIT NAME;;Galar
+W3B 7CE TE++7A4 VCTQ9KV9 9B+BDEVA 7LCMKT R89W;UNIFORM NAMES;These are all names found on other Gym Challengers gym uniforms. It’s interesting because they could’ve just used the standard kit name, but they instead gave them unique names.;Galar
+47E Y 47E H;TEAM YELL;The Team Yell logo uses the same symbol as the Dragon-type Gym symbol seen all over the place. However, since “Dragon” in Galarian is X9CDJA, and none of those characters match either Y or H, then… your guess is as good as mine! Correction, turns out the Team Yell logo is just the Dark type uniform. So 47E is “Aku”, not “Dan”.;Galar
+xvrk;MARNIE;It appears on the back of the female Team Yell grunt’s banner.;Galar
+7SJYWECV;HIP CLOTHES SHOP;;Galar
+A162P A6OUH^Z2P;CLOTHING BRAND;Two word brand name, split into two lines so it doesn’t break formatting.;Galar
+V^OU V26O;CLOTHING BRAND;;Galar
+B2OH;CLOTHING BRAND;;Galar
+O56UN;FASHION BRAND;;Galar
+AJM7EQK;PUMAish BRAND;;Galar
+9h62o 07;BRAND ON LEAGUE DUDE;The logo was a bit too stylized to interpret, but I think this is what it is.;Galar
+ABYBDTK;POKEMART @ TRAIN STATION;;Galar
+?WRET3;POKEJOBS;This proved to me that the character 0^ was not an obscure character but a legit one. I need to update the font to include it then.;Galar
+R;WAILORD AQUACULTURE;There has to be more than just that single letter!;Galar
+RON^2A61!;NESSA’S ADVERTISEMENT;;Galar
+QFI1NP !I62;FRESH WATER ADVERTISEMENT;;Galar
+95N6P FI^1N;MILO SPONSORS;;Galar
+VJDL Q7T+;TURFFIELD ORCHARDS;;Galar
+X6N5U6!F;KABU SPONSORS;same as sign in Cosmos Mall which was cut off;Galar
+J9W9;HUO GUO HOT POT;;Galar
+R!15UPHU;ALLISTER SPONSORS;;Galar
+W2HI!P;OPAL SPONSORS;;Galar
+QMVM XKW88R;MACH MOTORS;;Galar
+W!IO AELBRSK;SURF SHIPPING;;Galar
+LH11;LASS;;Galar
+XW N1H^F;MC INSURANCE;So clearly XW is supposed to be “MC”, given its use as the first letters in “Macro Cosmos” (XVCYQ WQE+QE);Galar
+XW uo2zp;MC BROKERAGE;This also means “N1H^F” is “Insurance”, while “UO2ZP” is “Brokerage”. It’s worth noting that “Insurance” in Japanese is “hoken” (保険), while “Brokerage” is (most likely) “chūkai” (仲介)… and that’s maybe if we treat “ch” as a single character, and thus both words fit the 5 Galarian letter form. But this is just a guess… it’s worth nothing that neither words are seen in any junk text.;Galar
+XJ;HAMMERLOCKE UNIVERSITY;It’s only the initials, but X is definitely XDEBWLA (Hamerlocke), while J is “University” (however it’s spelled in Galarian). Now consider that the Japanese word for “university” is 大学 daigaku, and the Japanese word for the Electric type, denki, is spelled in Galarian with a J as well (namely, JEMXL). So, again, this kind of stuff proves that there is SOME consistency in these words… but what??;Galar
+qcbcswqw bly8tavb;BOB’S YOUR UNCLE (LOGO);I wonder which one of that is “BOB”?;Galar
+dzih xni15 r2u d1! n!f1^5up yn^u^f2i  xni15 v2oz2hp tz26 dzi^ So16 +i!z6 712n d1! Soh  4u1 qnfio mz6i f1!5 82 +i!z6 712  k51!oz2o  r!u1z c6u  jniu6 3po  dzi^ So16  yn^u^f2i;BOB’S YOUR UNCLE (MENU);I’m noticing a lot of text repeat. So I’m getting an idea that there is one lead artist who writes up the text, and some lower peon or the lazy artist copying-and-pasting text randomly to fill in the rest.;Galar
+vh w2hi!p u56 !2on5 x2iu16o5 au +hufo2 mz6i f1!5 82;BOB’S YOUR UNCLE (“BOB’S GUARANTEE”);Ugh this was a pain, but I got it accurately. This was definitely done by the GOOD artist. OR maybe not. See “The Hero’s Bath” for more info.;Galar
+e6!^2;HOTEL IONIA;;Galar
+A5FN2I;MELODY SPONSOR;;Galar
+dzih c51nhfi! !n^o2h^f  5u^6f;ICE CREAM GUY;The word dzih appears multiple places.;Galar
+T9+E3YA;TELESCREEN;the T is separate in the logo, which suggests that it equals “T”;Galar
+3LJL7L W7E (D7E Q7e);HIJIKI OKA;This is tough to decipher because it uses stylized text.;Galar
+dyjyqel;WYNDON MONORAIL;;Galar
+dlddq bt;PELIPPER SHIPPING;;Galar
+s^n!5 duz E6!^2;FANCY LADY ADVERT;;Galar
+j1!6i^o;DANCE ADVERT;;Galar
+#B +huo2  ^z6oiu!;MISC WYNDON ADVERTS;;Galar
++z5^!6oh 4p2ho yinup5 jniu6;WYNDON EVENT STALLS;;Galar
+txl3l89wr qklr38l9j;WYNDON EVENT STALL MENU;Same menu used by each stall. However, it is cut off from the top, and each menu item under each section header is too small to read.;Galar
+TCVUON+ON;TV NETWORK;;Galar
+dxbrjm tycw;ENERGY SUPLEMENT ADVERT;;Galar
+EF6UEF6;FLOWER SHOP;;Galar
+J+T8 BEQT 50 UMC 80 LBRSK 90;FLOWER SHOP SIGN;;Galar
+4WKJ VI!2N;FLOWER SHOP;;Galar
+TLA;BIKE COMPANY;;Galar
+7SSLQ 7Q!4 ( 7Q!P);TIMBURR BUILDERS;I have no clue wha;Galar
+GX LA9E rcwx;GALAR TAXI;The Japanese name for Galar Taxi is “Galar Kōtsū” (ガラル交通). This is likely the source for the Galarian initialism GX, assuming X equals “K” as defined by GV+E 4REVX = “GAME FREAK”. The latter two are on the “Taxi” light on top and the license plate on bottom.;Galar
+s9x;POKEMON PARKING;;Galar
+BQEMT8 KLL;BUDEW DROP INN;;Galar
+4wkj rq+s;THE ROSE OF THE RONDELANDS HOTEL;;Galar
+LK7ERQBBCT;FIRE STATION;;Galar
+E889WWJ Q73;FISH RESTAURANT;;Galar
+WAELBR A5FN2IO2^! TXL3LC9W +Z5^!6OHNU J1!6I (LC9 could be L89);SIGN OUT FRONT;;Galar
+DFI1U Q!5PFU 5H ^N5U1Z^O BCHONP 526 FI^1N I2U;POKEMON FOOD ADVERT;The first word, DFI1U, can be seen written on boxes in Champion Leon’s room.;Galar
+V6N0ZOH R16ON DZIH YBRS 8L9J BX WQW WLT 3YCB A73VE AEL 100 RE8 75 GYCB 10 GYCB 20;GRAMOPHONE RECORDS (RECORD STORE);;Galar
+MLB;RECORD SHOP POSTER;;Galar
+712N DUZ!N ^O2H^F;HAIRCUT SHOP SIGN;;Galar
++Z5^!6OHNU;HAIRCUT SHOP NAME;;Galar
+DUZ!N ^O2H^F CZON6 712N DUZ!N;HAIRCUT SHOP INSIDE SIGNS;712N DUZ!N is seen outside as well.;Galar
+QSS7+EER;BOOKMARK;;Galar
+WAEL 8WAI MTJ XL3L8 3POO A RSKT  M15I62 W O5NU (T 470 432) F5INF^! F^!;BOOKMARK SIGNS AND STUFF;The designer of the bookstore accidentally flipped the graphic with A RSKT on it.;Galar
+XVCYQ WQE+QE RONOF!P 4FO6!UI Dofc  amc 2in j5!;MACRO COSMOS & SUBSIDIARIES;amc might be kmc instead, albeit flipped;Galar
+J1!6I^OHZUJ1!;LEFT RESTAURANT;The restaurant also includes a lot of items which can be read, but I’m not gonna figure them out right now. I think it’s also a bakery.;Galar
+BLY8TAVB QCBCSWQW V6N5ZOH R16ON;LEFT RESTAURANT FLOOR SIGN;;Galar
+3pooni6^ofhi6^i!i waelqra73;LEFT RESTAURANT ADVERTS AT WYNDON MONORAIL STATION;The text qra73 is seen in both adverts below… it seems like that is the name of the company behind those adverts, but those adverts are also within the space;Galar
+GA9A4 LSSCQ 4VKQ;LEAGUE SHOP;;Galar
+BLY8TAVB QCBCSWQW;QUICK-E MART;For some reason this is the exact same text used on the floor sign of the left-most restaurant.;Galar
+DALTACQ V6N5ZOH R16ON BLY8TAVB;QUICK-E MART SIGNS;The first word is unique, but the second sentence is also seen in the same floor sign of the left-most restaurant. This is clearly the work of the “Lazy Galarian Writer”.;Galar
+RSKTYCR;CASTLE STORE;This is the store seen on the way to the 8th Gym match;Galar
+xni15 v2oz2hp 3n512 oz6 j5h16 72hf1i!u 5!o 95nop jniu6 3po yn^u^f2i k51!oz2o vh w2hi!p u56 !2on5 x2iu16o5 E6!^2;THE HERO’S BATH;Lots to go through here! It’s worth pointing out that this text appears at “Bob’s Your Uncle”, either in the “Guarantee Certificate” or the menu. E6!^2 also appears on mail boxes. I’m starting to get an idea of what’s going on with this text stuff.;Galar
+LE3B9Q;FIGHTING;Case in point… Kakutō = six characters (well, assuming the とう is treated as “tō” not “tou”.;Galar
+YXK;ROCK;Iwa;Galar
+WV39T;BUG;Mushi;Galar
+WKDKJ8;STEEL;Hagane, note the two K where “A” would be…;Galar
+TEQSJ;PSYCHIC;the Psychic type in Japanese is エスパー, which could be transliterated into English/romaji as either “Esper” or “Esupā”, both are five characters long.;Galar
+JEMXL;ELECTRIC;Denki;Galar
+9LWB+;GROUND;Jimen;Galar
+MLRJC;FLYING;Hikou;Galar
+MJYMVL;NORMAL;Like with the Psychic type, the Normal type in Japanese is ノーマル, which could be transliterated as either “Normal” or “Nōmaru“, either way, both are six characters long.;Galar
+4+8V;POISON;Doku;Galar
+X9CDJA;DRAGON;“Dragon” … ドラゴン is transliterated into romaji as “Doragon“, which is seven characters. Bur since it’s written in Katakana, I figure it’s intended to be understood as the six-character English word “Dragon” instead. This in turn suggests that the Galarian words for Psychic and Normal are based on the English translations of their Japanese names, versus the romaji forms—and thus are “Esper” and “Normal” versus “Esupa” and “Nomaru“;Galar
+TQ7Q;FIRE;Honō … note the two Q where the “O” is supposed to be.;Galar
+7W3Z;GRASS;Kusa;Galar
+BC3S;WATER;Mizu;Galar
+QWEY;GHOST;“Ghost” … Silly me, I mistook the word for Ghost as the word for “Dark”. In this case, since “Ghost” is ゴースト, maybe it’s supposed to be “GOST”?;Galar
+473;DARK;Aku;Galar
+BDSK;ICE;Kōri;Galar
+e8tqy;FAIRY;“Fairy”.;Galar
+1Z^O ^N5;TEAM YELL BOOTH;;Galar
+W^UIO;EXIT SIGN;Considering that “Emergency Exit” (非常口 hijōguchi) is 9 characters, while plain ol’ “Exit” (出口 deguchi) is 7, I doubt it’s either of them. That said, “door”/”entryway” (口 guchi) is only 5, so meeeeaaaaaybe it’s that?;Galar
+QJM4;RAINBOW;;Galar
+K3C+;BEER/SWIMSUIT;;Galar
+JC9EM  WMS+C;PIKACHU;;Galar
++BT8YQLT  Q^P 9U6O  X65ZH;YIN-YANG;;Galar
+73T9K47WR;BANNER;;Galar
+D72 9X24;PSYDUCK;;Galar
+A5FN2IO2^!;EMPTY;;Galar
+RL?T+ DSVKN  JM74+9Y;MARNIE;;Galar
+E889WWJ q73;ICE CREAM;Same as “Fish Restaurant” above, I wonder if there is a connection?;Galar
+D7S9X24;SCENIC;;Galar
+95NOP DOZ r2u;SPIKEMUTH GRAFFITI;;Galar
+QNFIO DZIH DQ Kn2 72hf  xni OZ6 MZ61F d1!;SPIKEMUTH NEON SIGNS;DZIH is seen multiple places. Meanwhile, Kn2 72hf is a guess because it’s hard to decipher cursive.;Galar
+?wru#wt ?WR0#WT;“POKEMON”;Ok so get this… the first time I saw this word, it was written with neon letters, and so this means all characters with circles in them had open bits in them. This means the 0 character has an empty hole at the top… but so did ?. However, when I saw the Galarian word for “Pokémon” again, it was spelled with a u, which… I mean, I guess if it was written with neon letters, it too would have an empty hole at the top… so was the original neon letter supposed to be a u or a 0 with a hole in it?;Galar
+OU5 3N512;GUITAR;;Galar
+MZ R2U S^N!5;HAMBURGER;This is assuming there isn’t a missing letter between MZ and R2U.;Galar
+4P2HO;SABLEYE;;Galar
+D^26ZU D+OX ZU24+o vv^63 czon6 ?wru#wt ?wru#wt  2h^po aclxv3 qklre89;WORDS ON CLOTHES Scary face Night shade Sea urchin Poliwag pop Luxury Holiday Gullet glam Dynamax Band;The text for “Night Shade” is just a guess, only because the last line starts with some odd characters. Like, is it VV^63? Or Nv^63? Or ^n^63? I think it’s the first one, but only because I think that first line all the way on the left is just an “accidental paint drip”, just like the “paint drip” below the characters D and both o‘s. Actually, duh, it IS VV, because it’s the exact same text seen in Rose’s energy diagram (see “Rose’s Energy Presentation” below).;Galar
+GA9A4 BECWVE;GALAR LEAGUE;Sometimes misspelled as BEWCVE;Galar
+BX3DAL8 ACQRA7 3VEJC 9EMRES+;GALAR LEAGUE SIGN;;Galar
+3+QD7S 9XS4 9EMRES+ 3VEJC BX3DALT WAELBRSKTY CRW93;GALAR LEAGUE POSTER;Some words, like 9EMRES+ and 3VEJC appear in the Galar League Sign seen outside every league stadium.;Galar
+7Z0652OP DV4 QKLRE8 L9J+T 8WACLXV3 9TSA 8T;INDOOR LEAGUE POSTER;The first line is almost certainly “Champion”…. something. Either “Cup” or “Gym”. My vote is the latter.;Galar
+3SSW 1ZU22!P5!;GYM CHALLENGE TEXT;The first word is the same word seen on the player’s gym outfit, while the second word is most likely “Challenge”.;Galar
+3SSW 1ZU22!P5! REKLBE QTVEWM;TV SCROLLING TEXT;;Galar
++Z51!6 9ON61;CHANGING ROOM;;Galar
+73V YCRW ALTA YCRW;DOORS TO SEATS;;Galar
+CQKMQ8 R9DETX  POONI;STADIUM MAP;The first line appears on almost ALL Stadium maps, which is weird because the first word is “Engine”, aka the Japanese name of Motostoke. Maybe they were supposed to have a unique stadium map for EVERY city, but forgot to use them?;Galar
+CQKMQ8 R9DETX;MOTOSTOKE STADIUM;See? This is the text outside the Motostoke stadium (though I think I misspelled CQKMQ8)…;Galar
+XDEBWLA R9DETX;HAMMERLOCKE STADIUM;While this is seen at the Hammerlocke Stadium.;Galar
+AEWTT4K R9DETX;WYNDON STADIUM;The only other stadium with its name posted outside.;Galar
+m15i6;WYNDON STADIUM OFFICE (LEFT);The Left office sign looks like it could be m15c6, but there are way too many examples of m15i6, so it doesn’t seem likely that they would make a slight change to the garbage text they’ve been using.;Galar
+becwve 31w4e;WYNDON STADIUM OFFICE (RIGHT);The office on the right appears to be used by Galar League officials, since it starts with the word “League”. However, the second word doesn’t seem to be anything else. Now it might be the word “SCORE”, given the most common English/romaji character associated with that Galarian letter used by confirmed words (see below). But, “League Score”? Maybe it’s the official scoring offices. Or maybe it’s suposed to be “League STORE“? All that said, the windows used on the office were installed backwards.;Galar
+rekl a^5o2nz6 !h2 1noz j5UN1;WYNDON STADIUM RED POSTER;Although it is likely garbage text, none of it appears anywhere else… yet.;Galar
+txl3l w^uio2 !i v2oz2hp;WYNDON STADIUM BLUE POSTER;The middle text is hard to read since most of it is black text on blue. I can make out individual characters, but not enough to form sentences out of.;Galar
+89wr3 tz26 Ecbsa3 bh w933+q yn^u^f2i d7s9xs4 jniu6 Sktycr k51!;WYNDON STADIUM POKEMON SIGNS Rillaboom Perrserker Cinderace Inteleon Boltund Ball Guy,Rillaboom (J) = ゴリランダー Gorilanda Perrserker (J) = ニャイキング Nyaiking Cinderace (J) = エースバーン Acebun Inteleon (J) = インテレオン Inteleon Boltund (J) = パルスワン Pulswan one is the loneliest number… With the Japanese names known… it seems like none of them seem to match up at all. Sorta. They all seem to share the same number of characters between the Galarian name and their Katakana names… but they don’t seem to match. On the other hand, maybe they’re anagrams? Like, one Galarian character = one Katakana syllable, but somewhere in the name; perhaps S = ン, or 3 = ー. The second word of each entry, however, is garbage text and has no value.;Galar
+TN HF^IZ!^ V5N ^5FNH +UONP5HUT2 HF^IZ!^ V5N ^5FNH;WYNDON STADIUM SCROLLING TV TEXT;The text HF^IZ!^ V5N ^5FNH is used twice for some reason. The scrolling text itself loops. I chose TN as its starting point because the space before it looks a bit wider than other spaces.;Galar
+WKDKJ8 E8TQY QSSW+ELX;LEAGUE BOOTH;There are more, but I will need to come back to it.;Galar
+ACT BCX QVS8 QUS8 W9SK ! 7E4 !!!;STADIUM DYNAMAX JUMBOTRON WORDS;They’re stylized a bit, so it’s hard to tell what letters they’re actually supposed to be. It’s worth noting that W9SK ends with the same two characters as the word for “Ice” (BDSK). Is there a word in Japanese that means something like “Knocked out!” or “(you) lost!” that ends with “-ri”?;Galar
+GA9A4 B6F!N5  MZ6I F1!5 GA9A4 B6F!N5 JEMXL VU6^HOP QFI1NP!I62  BC3S JEMXL D+OX GA9A4 B6F!N5  VH W2HI!P U56! RQ38 JS+WVTK  D+OX ZU24+O VV^63 RQ38 JS+WVTK  2UO1^ RQ38;ROSE’S ENERGY PRESENTATION;JEMXL is “Electric”, seen in the “Electric-type” uniform. Meanwhile, BC3S is “Water”, also seen on the “Water-type” uniform. So clearly those words were an intentional decision. Also, D+OX ZU24+O VV^63 in the presentation is also seen on a tshirt you can buy at the Boutique (see “Words on Clothes” above). I wonder if it’s something that Rose closes with all the time and is put on a tshirt as a symbol of hope (or sarcasm)?;Galar
+8I1P L5OI N!F  BH;Garbage text;I still need to sort through what’s truly garbage text or not, but this section is here for when I’m ready to do it.;Galar
+A4LA 0;Area 0 / Area Zero;This is DEFINITELY “Area 0”. If you want to see more Paldean words, check out the Paldean Word List! I’m keeping the two pages separate in order to keep research better organized.;Galar
+QTVE;;;Galar
+DAL8ACQ;;;Galar
+8L;;;Galar
+L8 AC;;;Galar
+DAL8ACQ DAL8;;;Galar
+BX3DALTAC;;;Galar
+WAELBRSK;;;Galar
+RONOF!P;;;Galar
+BRS;;;Galar
+W9;;;Galar
+D7S9X;;;Galar
+UIOPNU2;;;Galar
+1N6N^2OIU6Z;;;Galar
+ROPH2IU6;;;Galar
+N2I616IO616IO;;;Galar
+QTVE;;;Galar
+RONO;;;Galar
+ROPH 2IU6Z;;;Galar
+WAELBR;;;Galar
+QTVEQTVE;;;Galar
+X6N5U6!;;;Galar
+MZ6I;;;Galar
+F1!5;;;Galar
+!F1^5UP ^HOUZ;;;Galar
+vej q14t;;;Galar
+wael;;;Galar
+W2H!P;;;Galar
+mz r2u c51nhfi!;;;Galar
+3n512 oz6 j5h16;;;Galar
+au +hufo2 mz6i f1!;;;Galar
+kn2 hi6np f!u;;;Galar
+wiopnu2;;;Galar
+kn2 hi6np;;;Galar
+mz r2u;;;Galar
+3n512 oz6 j5h16;;;Galar
+R!U1Z;;;Galar
+Z2HO;;;Galar
+DXL3L8WR3ECBSM3CMBS3V8SR;;;Galar
+A5FN2IO2^!;;;Galar
+ECBSA3CM;;;Galar
+3CMBS3;;;Galar
+T2 hf^iz;;;Galar
+Wiopnu dwvdb f61^hn;;;Galar
+N!f1^5;;;Galar
+WIOPNU2 roph2iu6z pn 1f61;;;Galar
+!2^p n1f61 ^hn2u^nIO;;;Galar
+3poonioni 6^O b5inf;;;Galar
+5n2i616iofiuz1^o fhi6^i;;;Galar
+2 !z^iz^i;;;Galar
+hn!z;;;Galar
+WAELBRSKTY 5I62FOIU;;;Galar
+J5H16 72HF1I!U;;;Galar
+W2HI!P O56 !2ON5;;;Galar
+X3DALTAC;;;Galar
+J+T8WAC;;;Galar
+89WR3E;;;Galar
+QTVEWMS+;;;Galar
+J+T8WAC;;;Galar
+89WR3E;;;Galar
+WAELBRSKTYCR;;;Galar
+XL3L89W;;;Galar
+QKLRE8L9J;;;Galar
+C3DEV !^992;;;Galar
+WIOP  ROP;;;Galar
++Z5^!6OHNU;;;Galar
+R!u1z c6u dzih So16;;;Galar
+lhu6p 8i6 9n2u1 d1!;;;Galar
+mz r2u c51nhfi!;;;Galar
+w2hi!p  bh;;;Galar
+mz6i  3po;;;Galar
+mz6i  oz6;;;Galar
+au  5!o;;;Galar
+WIOPNU2!2^PN1F;;;Galar
+ROPH2IU6Z5N2 D1!;;;Galar
+!IH6^2!Z^I W2I;;;Galar
+A5FN2IO2^! K!5;;;Galar
+J1!6I^OHZU E15;;;Galar
+I616IOFIUZ1^I AU;;;Galar
+M15I62FOI! 4U1;;;Galar
+6Z^  XJ?Y7KMR;;;Galar
+0^;;;Galar
+YCR WMS DAL 3+QD7S9;;;Galar
+QTVEWM A5FN2I;;;Galar
+MRES+  S3YC  9KVE;;;Galar
+95NOP;;;Galar
+R U  E6!^2;;;Galar
++BT8YQLT;;;Galar
+9CJTS;;;Galar
+D7S9XS4;;;Galar
+DALTACQ;;;Galar
+YCB;;;Galar
+BX3DA;;;Galar
+QLD+4  3VEW8X  AYJ XAT 9RE  R2S;;;Galar
+E DV;;;Galar
+Q+ A3LM;;;Galar
+XBR  +2^!065  V6H0;;;Galar
+RJQXL  JN!FNO6  +PO!0;;;Galar
+MN0K^I;;;Galar
+AX?B3C8;;;Galar
+B3C89;;;Galar
+QLEDAXJ?;;;Galar
+94WKT4;;;Galar
+QLEDA+VT;;;Galar
+DY7S+VT;;;Galar
+B3C89SV;;;Galar
+LWKMDA;;;Galar
+A4W3C89X;;;Galar
+C89SV;;;Galar
+B3C89SVT;;;Galar
+QLEDAMV;;;Galar
+XJ?Y7K;;;Galar
+94WKT4;;;Galar
+^OH;;;Galar
+Z;;;Galar
+M15I62FOI;;;Galar
+^OH;;;Galar
+8^UINZ6;;;Galar
+^OHZ;;;Galar
+!6OHNUFOI;;;Galar
+^OHZ;;;Galar
+8^UINZ6;;;Galar
+^OHZ;;;Galar
++Z5^ !6OHNU;;;Galar
+1!6I^OHZU +Z5^!6OHNU;;;Galar
+WIOPNU2;;;Galar
+8^UINZ6;;;Galar
+V!6O HNU;;;Galar
+J1!6I  ^OHZU6^;;;Galar
+NZ6^IH6^IH;;;Galar
+RONOF!P;;;Galar
+M15I62FOI;;;Galar
+A5FN2 IO2;;;Galar
+J1!6I  ^OHZU6^;;;Galar
+^OHZU6^;;;Galar
+8^UINZ6^IH;;;Galar
+4WKJ 4VKJ;;;Galar
+CZON6;;;Galar
+DFI1U;;;Galar
+EJC;;;Galar
+L9A+;;;Galar
+R9J;;;Galar
+YCB;;;Galar
+MWT3L84 BZ99;;;Galar
+CZON6;;;Galar
+CQKMQ8;;;Galar
+T2N;;;Galar
+TFA;;;Galar
+TVC;;;Galar
+92C;;;Galar
+2G;;;Galar
+GV+E 4REVX;;;Galar
+DECRMWC3T8;;;Galar
+JZ6HP VNU^THO;;;Galar
+V62T^!U 4Z^ONi;;;Galar
+qzhn 7b!ouf;;;Galar
+9!2o2nh t16 e^2;;;Galar
+xvnzo wo2iui;;;Galar
+xvnzo 7b!ouf;;;Galar
+QTVEWM;;;Galar
+BVC89SVT;;;Galar
+QLEDA+V;;;Galar
+QLEDA+VT4WKDAXJ?Y;;;Galar
+B3C89S+VT4WKMR;;;Galar
+QLEDAXJ?Y7;;;Galar
+QFINP!I62;;;Galar
+9ON6^5H;;;Galar
+R +vt4;;;Galar
+ELBRSKT;;;Galar
+B3C89S+VT4W;;;Galar
+QLEDAXJ?Y7;;;Galar
+C89SVT4WKMD;;;Galar
+QLEDA+VT4W;;;Galar
+9J+T8;;;Galar
+B3KMR;;;Galar
++VD4W;;;Galar
+DALTACQ;;;Galar
+WAE;;;Galar
+3POO;;;Galar
+MTJ  XL3L8;;;Galar
+WQE+QE  WEQQB  QCS7  A21I^2z EJY3  RONOF!P  B6F!N5 V6N5  V06^HOPQSS7  4F6!  6  C^U^;;;Galar
+^HOUZ  H!5;;;Galar
+X()A OH125;;Company name;Galar
+R398B XWDV4E;;In Japanese and Korean, the Academy is known as “Grape Academy”, so I can easily imagine at least the first word to be “GRAPE”.;Paldea
+J39QR XWDV4E;;In Japanese and Korean, the Academy is known as “Orange Academy”, but I don’t see how either of those words fit in those Paldean words…;Paldea
+R398B XWDV4E TXL3L89W;;While the top two text is unique (Paldean for “Uva [Grape] Academy”), the bottom text was seen in generic text a couple times in Galar;Paldea
+V8CLM;;Galar was clearly written as GA9A4. But I just don’t see it in the name of Paldea. Someone suggested that the word shown is simply “CARTA” (Spanish for “Map”) but… I dunno.;Paldea
+WEBMQX;;This is the big green text seen in all Pokédex entries. The text below, however, is generic (see below) Now a few people on the PA! Discord has suggested that THIS is the word for “Paldea”, not the one above…. and I’m inclined to believe it. However, there is no evidence of this being the case, such as a map of Paldea with these words beneath it, although the next entry may be a fair point just the same. Another alternative that Kinnit mentioned to me on Discord is that this is the Paldean word for “Pokémon”, given….;Paldea
+WEBMCJ BKQJ;;This is on the League building, sharing the same four letters as on the Pokédex title. Maybe the four letters mean “Poke-“? But wait a sec, “Pokémon” in Galarian/Paldean is already established to be ?wru#wt… so what’s WEBMCJ/WEBMQX? Maybe, as Kinnit also suggested, that Galarian and Paldean could be treated as different languages, and simply this IS the Paldean word for Pokémon? Maybe, given with the word above, is “Paldea”? After all, this could be the word (in Spanish) “PALDEA LIGA”, or “Paldea League”…? After all b = L and J = A in both (well, if you ignore the E = A bit).;Paldea
+W87;;Compare/Contrast with 7Z0652OP DV4 seen in Galar Region Gyms, as well as how both W87, WEBMQX and WEBMCJ all start with the same character. Maybe w87 is an initialism?;Paldea
+E2^z J6u;;New company name;Paldea
+ATA8 / AT-A8;;The logo has the letters on two rows.;Paldea
+ARuLZEY9uuL;;Completely new company name!;Paldea
+#WT3L84 BZ99;;Definitely legit;Paldea
+j6uh V8CLM9S7CK+BTY;;Nothing in this text ever appeared before, although K+BTY appears in an Iono advertising (see below);Paldea
+LM9S7C (MA);;This almost looks like some kind of public service notice (“Please don’t step on Dedenne!”), especially with the MA logo in the bottom-left corner which looks like an “Ad Council” logo.;Paldea
++BTY9x3v;;The 9x3v bit at the end is new, while +BTY was seen the above Stir-fried Rice advertisement.;Paldea
+9x3vt3b+kLM;;Speaking of the new 9x3v bit it also appears here.;Paldea
+JEAQ;;;Paldea
+^D^uIO2;;;Paldea
+RW9;;One instance of RW9 appears in Galar, but I feel like that might be a coincidence.;Paldea
+9KE MAQ;;This is the name of Ballonlea in Galar (technically 9KEMA). Was this a town of transplants from Galar??;Paldea
+A4LA 0;;Galar is strange, words like A4LA are clearly existing words (in this case, obviously “AREA”). And yet other words aren’t anything like an existing word. I don’t get why it be like this…!!;Paldea
+Voi!^op2 B6^h JFu6u^ M2nz5;;Seen in the Violet Book (probably the Scarlet Book as well?);Paldea
+D^uio2 !i;;;Paldea
+7SW3E4;;Wow, all the words in the eponymous books are ALL new text!;Paldea
+DA+ST;;Do they even have a “China” in the Pokémon world? Anyways, technically this is new, but there does exist plenty of instances of DA+VT in Galar text (the V and S were swapped).;Paldea
+WEBMCJ A4LA 0 NI!0^2O;;The actual content of the mysterious plate… (Thanks to 自然森林 for the image and TAMUsquirrel for the text!);Paldea
+EWQ4J;;;Paldea
+REL;;On the “whiteboard” in the history room, definitely new;Paldea
+A621FO B!^H;;;Paldea
+Yo^^i;;Extra text on sign (colored red in the graphic);Paldea
+MZ R2U E15;;MZ R2U appeared in Galar on a sign for hamburgers, but E15 has never appeared before. I dunno if I should count this as new or not.;Paldea
+VoI!^o2 B6^HCu | JFU6U^;;;Paldea
+Ei5 W2I LIN! Kn2 hi6np f!u 61poz Yino2p52;;EI5 is a new word that appears on a certain road sign. There is text beneath, but it’s too small to accurately decipher right now. I think I got it MOSTLY right, however.;Paldea
+BKQJ +C7;;;Paldea
+MAK8EW3SDLV;;I think new concepts, companies, etc, were given brand new names;Paldea
+LSDVT939X EP2H1 Q6^^np W6u M9kyex…;;Appears only in-store;Paldea
+3if 1uhu!zp Aoznp;;Despite this text being unique, the name is generic.;Paldea
+FC^1n n1^CF;;Although it uses Galarian letters, technically those kind of Asian-style signs are written right-to-left, so maybe it’s supposed to be the bottom?;Paldea
+K+BTY J5UP1;;K+BTY appears in the Pincurchin Fried Rice Advert seen in the Pokémon Center banner ads, but is otherwise a new word not seen in Sword/Shield. Iono’s logo in the upper-left corner, however, uses existing text (see “Iono’s livestream logo” below for more info);Paldea
+D+OX ZU24+O VV^63 9on6^ ou5 A5FN2IO2^!;;The poster next to the “whiteboard” in the history room. This text has been seen in generic locations in the Galar region and elsewhere, such as on a few t-shirt designs;Paldea
+REKLBE QTVEWM S+CS3YCB;;The top text appears in scrolling text, while the bottom has appeared in piecemeal at various locations;Paldea
+TXL3L89;;On the “whiteboard” in the history room, seen in Wyndon Event menu;Paldea
+R!15UPHU MNI 5u^6f b5inf^! A5F;;Incidentally the Alolan text says: ALOLAN RAICHU REGIONAL VARIANT ALTAR OF THE SUNNE LAND RICH IN NATUR (Yes, the word “NATUR” is cut off like that.);Paldea
+3YCB;;Originally seen on a Gramophone Records album sign;Paldea
+DZIH YBRS;;Originally seen on a Gramophone Records album sign;Paldea
+rekl;;I thought this would be something new, but those letters appeared in Galar, such as in TV scrolling text and Wyndon Stadium;Paldea
+3n512 oz6;;Previously seen on a Galar monorail info stand;Paldea
+QKLRE8L9J+T8W DALTAC;;Using generic text seen countless times in Galar;Paldea
+REKLBEQTVEWMS+CS3YCB;;Bunch of generic text smushed together, individual chunks of letters have appeared many places.;Paldea
++T8W Sclxv3;;I’m putting this in the generic section because MOST of its name has appeared elsewhere, although technically SCLXV3 never has (instead ACLXV3 was used).;Paldea
+s^n!5 duz!n^o2h^f 9ON6;;More generic text pulled from multiple locations;Paldea
+9ON6^ 3VEWC;;;Paldea
+MS+C;;Actually the texture is flipped horizontally.;Paldea
+Q!56F Ecbsa3C;;Technically seen before but written as Q!5PF instead of Q!56F.;Paldea
++T8WSC LXV39 Rop 8800 / 3po 9900;;More “basically the same but technically new” since some letters were added in where they normally don’t belong.;Paldea
+A5FN2IO2^!;;Generic;Paldea
+WIOPNU2!2^ M15I62FOI!1n roph2iu6z5n;;The last two or three characters in each line seem to be tacked on as the rest of the word is seen in many long word generic phrases.;Paldea
+QKLRE8L9J+T8Saclx 4p2ho;;That first line is used a lot in generic text… it’s even already showed up on THIS list!;Paldea
+QKLRE8 RE;;This almost looks like it says “Nintendo TM“;Paldea
+QD7S9X;;Only QD7S9/QD7S has been seen before.;Paldea
+RW93;;Seen only once before, and on a Pokémon League sign… maybe it means “Energy”?;Paldea
+M15I62FOI!1n roph2iu6z5n2;;;Paldea
+tz26;;;Paldea
+QD7 S9X4;;;Paldea
+wiopnu2!2 dzih So16 b5inf^!^i6^op2i ^51^ophn!z R!u1z c6u dzih So16;;Some advertisements had new text on it, others did not. How strange…! The fourth line of text appeared in the Battle Cafe in Galar;Paldea
+JC9E;;I almost feel like this means “MENU”, but this word appeared in Galar in a wholly un-menu-y context.;Paldea
+L9J+T V5nz2ho 3if1uhu!zpaoznp;;Despite this name being generic, its subtitle text was wholly new.;Paldea
+L9J+T;;It literally has the same flippin’ name. There are a TON of words used inside and outside of the Treasure Eatery, which I’m not gonna bother writing up just yet.;Paldea
+wms+CS3 WAELBRSKT DFI1U ROPH2IU;;Generic title, the third word is seen on food-related boxes. Maybe that means “food”?;Paldea
+qklre WAELBRSK;;;Paldea
+REKLBEQT;;;Paldea
+A5FN2IO2^!;;Is the Dedenne advertisement from above selling these cans??;Paldea
+Czon6;;In the Art room there are some posters of Bird Pokémon in the corner with the word Czon6 on it. That word was used on a “Sea urchin” t-shirt in Galar.;Paldea
+R!U1Z Jniu6 3po Yn^u^f2i K5 1!oz2o TN HF^IZ!^ V5N ^5FNH +UONP5HU DZIH So16 +i!z6 712n r!u1z c6u lhu6p 8i6 9n2u1 d1! Sohi6 42 c6u dzih So16 +5!z6 Lin! Khfu5i 712n;;Or maybe they’re starter Pokémon breeding authentication certificates? Either way the texture is flipped horizontally. What’s crazy is that, despite the fact that you’ll never see this detail in-game, each of the three awards/certificates have specifically different text. Sure it’s all Lorem Ipsum text, but still…! I color coded them on the left, if they’re black then they’re the same across all three, but green, blue and red text means it’s unique for the left, center and right award, respectively.;Paldea
+9EMRE;;This word previously appeared outside every Gym in Galar. Meanwhile, the 9EMRE stores have a bunch of words which I’ll write down later.;Paldea
+QKLRE8L9J+T8WSC;;Not again… I’m getting sick of this particular line of text…!;Paldea
+A73VejC9;;Seen in the Galar League Sign;Paldea
+QFI1NP!I62;;This text was seen in Rose’s energy presentation in Sword/Shield.;Paldea
+oni6^of Biho^526 MNI 5u^6f 4p2ho s^n!5 ^N5U1Z^O R3ECBSM3;;New homes to buy! I wonder if this place was originally planned to be an actual place where you could choose your own secret base at, but this feature was removed (or at least postponed for a later DLC)?? Most of the names are old but the second one appears to be unique. How odd… The third one is seen in the Alolan text above… maybe it means “beach-front property”? The fourth one was seen in SwSh on text relating to Sableye.;Paldea
+J1!6I^;;Originally seen in Battle Cafe text.;Paldea
+T2 HF^IZ;;This text was previously seen on Hop’s cell phone, almost like it said “previous page” or something.;Paldea
+r!u1z c6u dzi^;;Text previously appeared in a Bob’s Your Uncle menu;Paldea
+DALTA CQRA7;;Alas, these letters appeared all over the place in Galar.;Paldea
+XV39TSA8;;Yellow shop or restaurant. Repeats in blue shop next to it;Kalos
+ZON6;;Potion sign;Kalos
+?QRU#QT DEMLE4;;Pokéball sign;Kalos
+<QDAB L9DEQ#C;;;Kalos
+B9CJTS4;;;Kalos
+[---] U1Z5O [---] QQLRE8L ^HN L9J+T88 2U^ NI;;Blackboard;Kalos
+[---] BEQT 3POONI6(H) SO16 +CS3YC [---];;Blackboard;Kalos
+R!1U5PHU 2N!U 4P2HO B5INF^!^ I6^OP2 I^51 6^OP2 ?SELBRS;;Blackboard standing in front;Kalos
+RE[---] RSTQAEM;;Headphones ad;Kalos
+\$TS8 ?¨BER¨SV7Y;;;Kalos
+[---] R#93+Q [---];;;Kalos
+V2OZ2HP;;Taxi?;Kalos
+JFU6U^ [---]2NZ5[---] VOI!^OP2;;;Kalos
+Q6\^[---] 3(can be a new symbol)[---];;There is more text barely readable;Kalos
+3N512 OZ6 J5H16;;"Subtitles: ""This is a promotion match announcement""";Kalos
+BX(can be a new symbol)(2) ()25^;;Lumiose tower. Text sideways;Kalos
+<QDAB;;Probably the line name;Kalos
+E6!^2 [---] EP2H1 Q6^N 75U RN!O2I BF622 IU 95NOP B6(^)H VOI!^OP2 M[---] JFU6U(^) A[---]P 96112!Z;;Some of the lines or destinations are not readable;Kalos
+MB%ERBYJ8\$E L89#R;;;Kalos
+V([---])!^O(#);;Pink Furfrou ad;Kalos
+<QDAB RQ94;;;Kalos
+Q12-OIUNH O6=N&F1 P2 <N¨U1OI!Z;;;Kalos
+M12¨U L <QDAB;;;Kalos
+<EXBQC37E7T 96N BI1PO 4O1 QNFIO X6N5O6!F;;Accompanying text description;Kalos
+RELBEQ TVE?MS;;;Kalos
+-RBYE4J¨SQS9LA-D XNI15 V2OZ2HP TZ26 BH Q2U5I!;;Accompanying text description;Kalos
+DFI1U J1!6I^OHZU;;;Kalos
+%98QL<V7\$J-RY<QV 3N512 OZ6 J5H16 72F1I!UU 5!O;;Accompanying text description;Kalos
+?QRU#QT DEMLE4;;;Kalos
+\$TS8?¨8ER¨SV7YD¨8 LHO6@ 8I6 9N2O1 D1! SOHI6 42;;Accompanying text description;Kalos
+QYEVTJ8 3C9M;;;Kalos
+Q\$J8L-?<D3< VH #2HI!P O56!2ON5 X2IO16OI;;;Kalos
+\$TS8 ?¨8ER¨SV7Y;;;Kalos
+M8%ER8YJ8\$EQA<9Q R!O1Z C6O DZIH SO16 +I!Z6 712N;;Accompanying text description;Kalos
+D^26ZU;;;Kalos
+A5FN2IO2^!;;In Japanese: TOSHI SAIKAIHATSU KOUSOU;Kalos
+<QDAB RQ94;;Subtitle;Kalos
+D+OX ZU24+OVV^63;;A vision of beautiful coexistence between people and Pokémon. In Japanese: HITO TO POKEMON NO I SON WO YUMEMITE;Kalos
