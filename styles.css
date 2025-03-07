@@ -3,13 +3,21 @@
     src: url('./assets/ThraexSansRegular-v1000.ttf');
 }
 
+:root {
+    --red1: #D24931;
+    --red2: #A03725;
+}
+
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
-body {
+body,html {
     background-color: whitesmoke;
+    width: 100%;
+    height: 100%;
 }
 
 .pokelatin {
@@ -39,6 +47,7 @@ header {
     overflow-x: auto;
     height: 420px;
     overflow-y: auto;
+    margin: 0 3rem;
 }
 
 #welcome {
@@ -49,24 +58,24 @@ header {
 }
 
 main {
-    width: calc(100% - 4rem);
-    display: flex;
-    flex-direction: column;
+    width: calc(100% - 8rem);
+    display: grid;
+    grid-template-columns: 1fr;
     gap: 1rem;
     background-color: white;
-    padding: 2rem 0 5rem 0;
-    margin: 0 2rem;
+    padding: 0 0 5rem 0;
+    margin: 0 4rem;
 }
 
 h1 {
-    background-color: red;
+    background: linear-gradient(to bottom,var(--red2),var(--red1));
     padding: 1rem;
     color: white;
+    box-shadow: 0 0.2rem var(--red2);
 }
 
 table {
-    margin: 0 3rem;
-    width: calc(100% - 6rem);
+    width: 100%;
     position: relative;
 }
 
@@ -112,8 +121,9 @@ th {
 
 .input-group button {
     border: 0;
-    background-color: red;
+    background: linear-gradient(to bottom,var(--red2),var(--red1));
     flex-grow: 1;
+    transition-duration: 0.2s;
 }
 
 .input-group button span {
@@ -122,7 +132,9 @@ th {
 }
 
 .input-group button:hover {
-    background-color: darkred;
+    background: var(--red2);
+    background-color: var(--red2);
+    transition-duration: 0.2s;
     cursor: pointer;
 }
 
@@ -133,4 +145,18 @@ th {
 
 .hide {
     display: none;
+}
+
+@media screen and (max-width: 1024px) {
+    main {
+        margin: 0;
+        width: 100%;
+    }
+
+    #translation-form {
+        display: grid;
+        grid-template-columns: repeat(auto-fit,minmax(240px,1fr));
+        gap: 1rem;
+        width: 100%;
+    }
 }
