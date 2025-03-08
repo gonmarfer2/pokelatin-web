@@ -6,18 +6,29 @@
 :root {
     --red1: #D24931;
     --red2: #A03725;
+    --yellow1: #F0F66E;
+    --yellow2: #cdc15a;
+    --white1: #fbfff8;
+    --white2: #F0F8EA;
+    --green: #A8C686;
 }
 
 * {
     margin: 0;
-    padding: 0;
     box-sizing: border-box;
 }
 
+*::selection {
+    background-color: black;
+    color: var(--white2);
+}
+
 body,html {
-    background-color: whitesmoke;
-    width: 100%;
-    height: 100%;
+    background-color: var(--white2);
+}
+
+body {
+    padding: 0 3rem;
 }
 
 .pokelatin {
@@ -28,135 +39,169 @@ body,html {
     font-family: 'Courier New', Courier, monospace !important;
 }
 
-header {
-    width: 100%;
-}
 
-#header {
-    background-color: red;
-    padding: 1rem;
-    color: white;
-}
-
-#header > span {
-    font-weight: bold;
-    font-size: 1rem;
-}
-
-.table-wrapper {
-    overflow-x: auto;
-    height: 420px;
-    overflow-y: auto;
-    margin: 0 3rem;
-}
-
-#welcome {
-    margin: 2rem 3rem;
-    border: 1px solid red;
-    padding: 1rem;
-    box-shadow: 0.5rem 0.5rem 0.5rem darkred;
+/* main */
+.background-layout {
+    height: 100vh;
+    background-color: var(--white1);
 }
 
 main {
-    width: calc(100% - 8rem);
     display: grid;
     grid-template-columns: 1fr;
-    gap: 1rem;
-    background-color: white;
-    padding: 0 0 5rem 0;
-    margin: 0 4rem;
+    row-gap: 2rem;
+    background-color: var(--white1);
+    padding: 2rem 3rem;
 }
 
 h1 {
-    background: linear-gradient(to bottom,var(--red2),var(--red1));
+    text-align: center;
+    background: linear-gradient(to bottom, var(--red2), var(--red1));
+    color: var(--white2);
     padding: 1rem;
-    color: white;
-    box-shadow: 0 0.2rem var(--red2);
 }
 
-table {
+#welcome {
+    display: grid;
+    grid-template-columns: 1fr;
+    row-gap: 1rem;
+    border: 1px solid var(--red1);
+    padding: 1rem;
+    box-shadow: 0 0.5rem var(--red2);
+    background-color: white;
+}
+
+.monospace {
+    word-break: break-all;
+}
+
+/* FORM */
+
+.form-wrapper {
+    display: flex;
+}
+
+form {
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(360px,1fr));
+    gap: 1rem;
+}
+
+.input-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-button-group {
+    display: flex;
+}
+
+input {
     width: 100%;
-    position: relative;
 }
 
-table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
+.input-button-group > input {
+    flex-grow: 3;
 }
 
-td, th {
+.input-button-group > button {
+    flex-grow: 1;
+}
+
+.input-group input,
+.input-group button {
     padding: 0.5rem;
 }
 
+.input-group input,
+.input-group button {
+    border: 1px solid var(--red2);
+    box-shadow: 0.5rem 0.5rem var(--red2);
+}
+
+.input-group input:focus {
+    outline: none;
+    background-color: var(--yellow1);
+}
+
+.input-group button {
+    background: linear-gradient(to bottom, var(--red2), var(--red1));
+    color: var(--white1);
+    font-weight: bold;
+}
+
+.input-group button:hover {
+    cursor: pointer;
+    background: linear-gradient(to bottom, var(--red2), var(--red2));
+}
+
+@media screen and (max-width: 720px) {
+    body {
+        padding: 0;
+    }
+
+    h1 {
+        font-size: clamp(1rem,2rem,5vw);
+    }
+
+    form {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* TABLE */
+
+.table-wrapper {
+    border: 2px solid var(--red2);
+    max-height: 24rem;
+    overflow-x: auto;
+}
+
+#pokelatin-table {
+    background-color: white;
+}
+
+.table-wrapper table {
+    width: 100%;
+}
+
 th {
-    border: 1px solid black;
-    background-color: yellow;
-    text-align: left;
+    background: linear-gradient(to bottom, var(--yellow2), var(--yellow1));
     position: sticky;
     top: 0;
 }
 
-#translation-form-wrapper {
-    margin: 0 3rem;
+th,td {
+    padding: 0.5rem;
 }
 
-#translation-form {
-    display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(480px,1fr));
-    gap: 1rem;
-    width: 100%;
+table,th,td {
+    border-style: solid;
+    border-width: 1px 0;
+    border-color: black;
+    border-collapse: collapse;
 }
 
-.input-group {
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    gap: 0.2rem;
+#pokelatin-table th:nth-child(1) {
+    width: 20%;
 }
 
-.input-group > div {
-    width: 100%;
-    display: flex;
+#pokelatin-table th:nth-child(2) {
+    width: 20%;
 }
 
-.input-group button {
-    border: 0;
-    background: linear-gradient(to bottom,var(--red2),var(--red1));
-    flex-grow: 1;
-    transition-duration: 0.2s;
+#pokelatin-table th:nth-child(3) {
+    width: 20%;
 }
 
-.input-group button span {
-    font-size: 1rem;
-    color: white;
+#pokelatin-table th:nth-child(4) {
+    width: 30%;
 }
 
-.input-group button:hover {
-    background: var(--red2);
-    background-color: var(--red2);
-    transition-duration: 0.2s;
-    cursor: pointer;
-}
-
-.input-group input {
-    padding: 1rem;
-    flex-grow: 3;
+#pokelatin-table th:nth-child(5) {
+    width: 10%;
 }
 
 .hide {
     display: none;
-}
-
-@media screen and (max-width: 1024px) {
-    main {
-        margin: 0;
-        width: 100%;
-    }
-
-    #translation-form {
-        display: grid;
-        grid-template-columns: repeat(auto-fit,minmax(240px,1fr));
-        gap: 1rem;
-        width: 100%;
-    }
 }

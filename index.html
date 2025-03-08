@@ -2,58 +2,49 @@
 <head>
     <meta name="viewport" content="width=500, initial-scale=1" />
     <title>PokéLatin</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
-    <header>
-        <!--
-        <div id="header">
-            <span>Instantaneous PokéLatin Decipherer</span>
-        </div>
-        -->
-    </header>
-    <main>
+    <div class="background-layout">
+
         <h1>Instantaneous PokéLatin Decipherer</h1>
-        <section id="welcome">
-            <p>Welcome to the PokéLatin Decipherer webpage. Here, you can paste your JSON decipher dictionary so that the texts can be easily visualised.</p>
-        </section>
-        <div id="translation-form-wrapper">
-            <form id="translation-form" action="">
-                <div class="input-group">
-                    <label for="textInput">Filter by text:</label>
-                    <div>
+        <main>
+            <section id="welcome">
+                <p>Welcome to the PokéLatin Decipherer webpage. Here, you can paste your JSON decipher dictionary so that the texts can be easily visualised.</p>
+                <h2>How to format the JSON deciphering object</h2>
+                <p class="monospace">{"ciphered_letter1":"deciphered_letter1",...,"ciphered_letterN":"deciphered_letterN"}</p>
+            </section>
+                <form id="translation-form" action="">
+                    <div class="input-group">
+                        <label for="textInput">Filter by text:</label>
                         <input type="text" name="textInput" placeholder="Write the text to filter by..."/>
                     </div>
-                </div>
-                <div class="input-group">
-                    <label for="regionInput">Filter by region:</label>
-                    <div>
+                    <div class="input-group">
+                        <label for="regionInput">Filter by region:</label>
                         <input type="text" name="regionInput" placeholder="Write the region to filter by..."/>
                     </div>
-                </div>
-                <div class="input-group">
-                    <label for="decipherDict">Paste your decipher JSON here</label>
-                    <div>
-                        <input type="text" name="decipherDict" placeholder="Paste here your decipher as a JSON text"/>
-                        <button type="submit" name="decipherSend"><span>Send</span></button>
+                    <div class="input-group">
+                        <label for="decipherDict">Paste your decipher JSON here</label>
+                        <div class="input-button-group">
+                            <input type="text" name="decipherDict" placeholder="Paste here your decipher as a JSON text"/>
+                            <button type="submit" name="decipherSend"><span>Send</span></button>
+                        </div>
                     </div>
-                </div>
-            </form>
-        </div>
-        <div class="table-wrapper">
-            <table id="pokelatin-table">
-                <tbody>
-                    <tr>
-                        <th id="pokelatin-header-text">Text</th>
-                        <th id="pokelatin-header-translation">Translation</th>
-                        <th id="pokelatin-header-shouldbe">It should be...</th>
-                        <th id="pokelatin-header-comment">Comment</th>
-                        <th id="pokelatin-header-region">Region</th>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
-    </main>
-    <footer></footer>
+                </form>
+            <div class="table-wrapper">
+                <table id="pokelatin-table">
+                    <tbody>
+                        <tr>
+                            <th id="pokelatin-header-text">Text</th>
+                            <th id="pokelatin-header-translation">Translation</th>
+                            <th id="pokelatin-header-shouldbe">It should be...</th>
+                            <th id="pokelatin-header-comment">Comment</th>
+                            <th id="pokelatin-header-region">Region</th>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </main>
+    </div>
 </body>
 <script src="./js/main.js"></script>
